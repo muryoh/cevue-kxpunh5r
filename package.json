@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/muryoh.cevue-kxpunh5r",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 6hUgZuoqAmZLaAIL3oxz --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
